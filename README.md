@@ -1,7 +1,5 @@
 # Oh My Bookmarks on Chrome
 
-[TOC]
-
 ## Coding
 
 ### JavaScript
