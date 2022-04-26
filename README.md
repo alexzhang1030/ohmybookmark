@@ -2,6 +2,10 @@
 
 ## Coding
 
+### Algorithm
+
+- [algorithm](https://the-algorithms.com/zh_Hans)
+
 ### JavaScript
 
 - [事件循环演示](http://latentflip.com/loupe/)
