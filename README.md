@@ -6,6 +6,11 @@
 
 - [algorithm](https://the-algorithms.com/zh_Hans)
 
+### TypeScript
+
+- [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
 ### JavaScript
 
 - [事件循环演示](http://latentflip.com/loupe/)
