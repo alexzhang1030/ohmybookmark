@@ -16,6 +16,7 @@
 - [事件循环演示](http://latentflip.com/loupe/)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [ES6 Console](https://es6console.com/)
+- [For Web Beginner](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
 
 ### CSS
 
