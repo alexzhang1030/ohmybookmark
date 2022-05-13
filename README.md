@@ -83,6 +83,8 @@
 - [树的漫长时光](https://shuspace.cn/)
 - [EEE](https://eee.me/)
 - [海边的木子](https://blog.oceanum.top/)
+- [思宁](https://www.snhere.com/)
+- [Heo](https://blog.zhheo.com/)
   
 </details>
 
@@ -95,7 +97,6 @@
 - [计算机专业基础随笔](https://www.cnblogs.com/edisonchou/category/625054.html)
 - [Web_飞跃高山与大洋的鱼](https://docs.shanyuhai.top/)
 - [wangDoc](https://wangdoc.com/)
-- [设计_Heo](https://blog.zhheo.com/)
 - [算法_刷题挑战](https://www.yuque.com/boyue-acaan/bmprgr/thvsah)
 - [Web_DIYGod](https://diygod.me/)
 - [Web_BY's Blog](https://www.bruceyj.com/front-end-interview-summary/)
