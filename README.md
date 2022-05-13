@@ -2,6 +2,8 @@
 
 ## Coding
 
+<details>
+  
 ### Algorithm
 
 - [algorithm](https://the-algorithms.com/zh_Hans)
@@ -49,7 +51,11 @@
 
 - [Typescript](https://www.typescriptlang.org/)
 
+</details>
+
 ## DX
+
+<details>
 
 - [Snippet Generator](https://snippet-generator.app/): VSCode Snippet 生成
 - [图片压缩](https://squoosh.app/)
@@ -58,13 +64,30 @@
 - [CSS 渐变](https://cssgradient.io/)
 - [CSS 渐变动画](https://www.gradient-animator.com/)
 - [AST](https://www.astexplorer.net/)
+  
+</details>
 
 ## Tools
 
+<details>
+
 - [在线图像编辑](https://pixlr.com/cn/)
 - [在线画布](https://canvas.apps.chrome/)
+  
+</details>
 
 ## Nice Blog
+
+<details>
+
+- [树的漫长时光](https://shuspace.cn/)
+- [EEE](https://eee.me/)
+  
+</details>
+
+## Dev Blog
+
+<details>
 
 - [Web_沧沧凉凉](https://www.cclliang.com/)
 - [开源指北](https://gitee.com/opensource-guide/)
@@ -80,11 +103,15 @@
 - [Dev](https://dev.to/)
 - [为什么这么设计](https://draveness.me/whys-the-design/)
 - [大厂每日一题](https://q.shanyue.tech/engineering/)
-- [树的漫长时光](https://shuspace.cn/)
-- [EEE](https://eee.me/)
+  
+</details>
 
 ## Illustration
+
+<details>
 
 - [unDraw](https://undraw.co/illustrations)
 - [StorySet](https://storyset.com/)
 - [unSplash](https://unsplash.com/)
+  
+</details>
